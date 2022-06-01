@@ -10,7 +10,7 @@ Greetings, fellow developer and thank you for taking the time to view my github 
 - 🌱 I’m currently learning java & kotlin 
 - 👯 I’m looking to collaborate on Projects
 - 💬 Ask me about Tech, PC specs, Games, and collabs 
-- 📫 How to reach me: email - rudrapatel.rhp@gmail.com
+- 📫 Reach me at rudrapatel.rhp@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can draw 
 
