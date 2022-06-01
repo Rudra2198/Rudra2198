@@ -12,8 +12,12 @@ Greetings, fellow developer and thank you for taking the time to view my github 
 - 💬 Ask me about Tech, PC specs, Games, and collabs 
 - 📫 How to reach me: email - rudrapatel.rhp@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I can draw
-<br  /><br  /><br  />
+- ⚡ Fun fact: I can draw 
+
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra2198&layout=compact&&theme=gotham)
+<br  /><br  />
 
 
 ## Statistics
