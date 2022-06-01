@@ -1,16 +1,24 @@
-### Hi there 👋
+##  Hello there 👋, I'm Rudra Patel
 
-<!--
-**Rudra2198/Rudra2198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greetings, fellow developer and thank you for taking the time to view my github profile  🫶🏻🥹
 
-Here are some ideas to get you started:
+<br  /><br  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 🔭 I’m currently working on improving my skills
+- 🌱 I’m currently learning java & kotlin 
+- 👯 I’m looking to collaborate on Projects
+- 💬 Ask me about Tech, PC specs, Games, and collabs 
+- 📫 How to reach me: email - patelrudra219@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I can draw
+<br  /><br  /><br  />
+
+
+## Statistics
+
+![Rudra's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rudra2198&theme=gotham)
+|      |      |
+|:-------------------------:|:-------------------------:|
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudra2198&theme=tokyonight) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rudra2198&theme=tokyonight)](https://git.io/streak-stats) |
