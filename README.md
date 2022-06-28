@@ -2,7 +2,9 @@
 
 Greetings, fellow developer and thank you for taking the time to view my github profile  🫶🏻🥹
 
-<br  /><br  />
+![Rudra Patel](https://user-images.githubusercontent.com/89503697/176100730-0fbaa2ab-09a6-4fdf-83c7-535d496d1a96.png)
+
+<br  />
 
 ## About me
 
