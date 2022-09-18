@@ -9,7 +9,7 @@ Greetings, fellow developer and thank you for taking the time to view my github 
 ## About me
 
 - 🔭 I’m currently working on improving my skills
-- 🌱 I’m currently learning java & kotlin 
+- 🌱 I’m currently learning python 
 - 👯 I’m looking to collaborate on Projects
 - 💬 Ask me about Tech, PC specs, Games, and collabs 
 - 📫 Reach me at rudrapatel.rhp@gmail.com
