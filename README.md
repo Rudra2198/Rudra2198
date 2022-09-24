@@ -18,14 +18,14 @@ Greetings, fellow developer and thank you for taking the time to view my github 
 
 <br />
 
-<br  /><br  />
-
 ## Skills 🔥
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp,java,kotlin,react,python,linux,figma,xd,ps,ai,discord,git,github,vscode,androidstudio,idea,linkedin,mysql,vim&perline=12" />
   </a>
 </p>
+
+<br />
 
 ## Statistics 📊
 
