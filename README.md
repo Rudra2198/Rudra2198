@@ -18,11 +18,14 @@ Greetings, fellow developer and thank you for taking the time to view my github 
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra2198&layout=compact&&theme=gotham)
 <br  /><br  />
 
 ## Skills 🔥
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,kotlin,react,python,figma,xd,ps,ai,discord,git,github,vscode,androidstudio,idea,linkedin,mysql,vim)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp,java,kotlin,react,python,linux,figma,xd,ps,ai,discord,git,github,vscode,androidstudio,idea,linkedin,mysql,vim&perline=12" />
+  </a>
+</p>
 
 ## Statistics 📊
 
