@@ -6,7 +6,7 @@ Greetings, fellow developer and thank you for taking the time to view my github 
 
 <br  />
 
-## About me
+## About me 
 
 - 🔭 I’m currently working on improving my skills
 - 🌱 I’m currently learning python 
@@ -24,7 +24,7 @@ Greetings, fellow developer and thank you for taking the time to view my github 
 ## Skills 🔥
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,kotlin,react,python,figma,xd,ps,ai,discord,git,github,vscode,androidstudio,idea,linkedin,mysql,vim)](https://skillicons.dev)
 
-## Statistics
+## Statistics 📊
 
 ![Rudra's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rudra2198&theme=gotham)
 |      |      |
