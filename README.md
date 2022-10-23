@@ -24,7 +24,6 @@ Greetings, fellow developer and thank you for taking the time to view my github 
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp,java,kotlin,react,python,linux,figma,bash,ps,ai,discord,git,github,vscode,androidstudio,idea,linkedin,mysql,vim&perline=12" />
   </a>
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra2198&layout=compact&theme=tokyonight)
 <br />
 
 ## Statistics 📊
