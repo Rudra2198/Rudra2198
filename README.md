@@ -1,4 +1,4 @@
-#  **Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Rudra Patel**
+#  **Hello there 👋, I'm Rudra Patel**
 
 Greetings, fellow developer and thank you for taking the time to view my github profile  🫶🏻
 
