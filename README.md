@@ -33,9 +33,4 @@ Greetings, fellow developer and thank you for taking the time to view my github 
 |:-------------------------:|:-------------------------:|
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudra2198&theme=tokyonight) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rudra2198&theme=tokyonight)](https://git.io/streak-stats) |
 
-## Watch a snake eat my contribution graph 🐍
-
-![snake gif](https://github.com/Rudra2198/Rudra2198/blob/output/github-contribution-grid-snake.svg)
-
-
 ![](https://komarev.com/ghpvc/?username=Rudra2198&color=blueviolet)
