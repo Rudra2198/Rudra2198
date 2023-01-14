@@ -6,7 +6,7 @@ Greetings, fellow developer and thank you for taking the time to view my github 
 
 <br  />
 
-## About me 
+## About me ✨
 
 - 🔭 I’m currently working on improving my skills
 - 🌱 I’m currently learning python 
@@ -16,7 +16,10 @@ Greetings, fellow developer and thank you for taking the time to view my github 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can draw 
 
-<br />
+## Socials 🫂
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudra5191) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-patel-43680a198/)
 
 ## Skills 🔥
 <p align="center">
