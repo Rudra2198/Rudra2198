@@ -29,11 +29,11 @@ Greetings, fellow developer and thank you for taking the time to view my github 
 </p>
 <br />
 
-<!-- ## Statistics 📊
+## Statistics 📊
 
-![Rudra's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rudra2198&theme=gotham)
+<!-- ![Rudra's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rudra2198&theme=gotham) -->
 |      |      |
 |:-------------------------:|:-------------------------:|
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudra2198&theme=tokyonight) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rudra2198&theme=tokyonight)](https://git.io/streak-stats) |
 
-![](https://komarev.com/ghpvc/?username=Rudra2198&color=blueviolet) -->
+![](https://komarev.com/ghpvc/?username=Rudra2198&color=blueviolet)
