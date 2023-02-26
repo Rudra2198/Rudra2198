@@ -24,7 +24,7 @@ Greetings, fellow developer and thank you for taking the time to view my github 
 ## Skills 🔥
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp,java,kotlin,react,python,linux,figma,bash,ps,ai,discord,git,github,vscode,androidstudio,idea,linkedin,mysql,vim&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,cpp,java,kotlin,python,linux,figma,bash,ps,ai,discord,git,github,vscode,androidstudio,idea,mongodb,mysql,vim&perline=12" />
   </a>
 </p>
 <br />
