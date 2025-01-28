@@ -1,4 +1,4 @@
-#  **Hello there 👋, I'm Rudra Patel**
+#  **Hello there 👋, I'm Rudra**
 
 Greetings, fellow developer and thank you for taking the time to view my github profile  🫶🏻
 
