@@ -1,25 +1,8 @@
 #  **Hello there 👋, I'm Rudra**
 
-Greetings, fellow developer and thank you for taking the time to view my github profile  🫶🏻
-
 ![Rudra Patel](https://user-images.githubusercontent.com/89503697/176100730-0fbaa2ab-09a6-4fdf-83c7-535d496d1a96.png)
 
 <br  />
-
-## About me ✨
-
-- 🔭 I’m currently working on improving my skills
-- 🌱 I’m currently learning python 
-- 👯 I’m looking to collaborate on Projects
-- 💬 Ask me about Tech, PC specs, Games, and collabs 
-- 📫 Reach me at rudrapatel.rhp@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I can draw 
-
-## Socials 🫂
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudra5191) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-patel-43680a198/)
 
 ## Skills 🔥
 <p align="center">
