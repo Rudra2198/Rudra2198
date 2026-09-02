@@ -1,0 +1,60 @@
+name: refresh banner
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # daily, 06:17 UTC
+  workflow_dispatch:        # and a manual "Run workflow" button
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect stats
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          USER=${{ github.repository_owner }}
+
+          # public repos, and account age from created_at
+          gh api "users/$USER" > /tmp/user.json
+          REPOS=$(jq -r '.public_repos' /tmp/user.json)
+          CREATED=$(jq -r '.created_at' /tmp/user.json)
+          YEARS=$(python3 -c "
+          import datetime as d
+          c = d.datetime.fromisoformat('$CREATED'.replace('Z','+00:00'))
+          print(int((d.datetime.now(d.timezone.utc) - c).days // 365.25))
+          ")
+
+          # stars RECEIVED across owned, non-fork repos (paginated)
+          STARS=$(gh api --paginate "users/$USER/repos?per_page=100" \
+                  | jq -s 'add | map(select(.fork | not) | .stargazers_count) | add')
+
+          echo "STAT_REPOS=$REPOS" >> "$GITHUB_ENV"
+          echo "STAT_STARS=$STARS" >> "$GITHUB_ENV"
+          echo "STAT_YEARS=$YEARS" >> "$GITHUB_ENV"
+          echo "collected: $REPOS repos, $STARS stars, $YEARS years"
+
+      - name: Rebuild banner
+        run: python3 build_banner.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- assets/banner.svg; then
+            echo "stats unchanged, nothing to commit"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/banner.svg
+          git commit -m "chore: refresh banner stats [skip ci]"
+          git push
